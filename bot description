@@ -1,0 +1,14 @@
+Components/equipments used:
+● Flysky CT6B
+● DYS BLDC motor (1450KV)
+● RS775 motor with custom gearbox(1.2kg-cm torque)
+● Arduino UNO
+● BTS 7960 (IBT 2) motor driver
+● Hobbywing 50A ESC
+
+Description :
+● RAVAN is a 15 kg robowar bot, made using aluminium sheets along with a steel roller which can go upto a speed of 14000 rpm.
+● The cuboidal structure of RAVAN makes it well balanced and the steel frame makes it highly sustainable against opponent’s attacks.
+● We control our bot using the FS CT6B transmitter which sends commands to the receiver.
+● The receiver further sends the commands to the arduino which controls the motor using motordriver.
+● Roller is controlled using 50A esc that interprets signal from receiver.
